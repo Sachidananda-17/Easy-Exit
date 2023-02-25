@@ -4,6 +4,7 @@ On the other hand , there's a warden login page which will lead to the request p
 This application is useful for both the end users - student and warden to interact on one platform.    
 <br>
 <a href="https://sachidananda-17.github.io/Easy-Exit/">Go Live</a>
+<img width="1439" alt="Screenshot 2023-02-25 at 6 05 46 AM" src="https://user-images.githubusercontent.com/96241425/221325586-8910efe5-fd4a-4702-9ac7-b56d1292188d.png">
 <hr>
 <img width="1161" alt="Screenshot 2023-02-25 at 5 24 48 AM" src="https://user-images.githubusercontent.com/96241425/221322866-04905bad-6a04-4d80-af63-0f91eb8c1a28.png">
 <hr>
