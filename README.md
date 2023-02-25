@@ -1,5 +1,5 @@
 # Easy-Exit
-Easy Exit is the web application developed using  HTML and CSS where it gives the facility for the students to request for an outpass  online rather than waiting for the manual approval from the warden.    
+Easy Exit is the web application developed using  HTML and CSS where it gives the facility for the students to request for an outpass online rather than waiting for the manual approval from the warden. Students feel difficulty relying on old systems and paper work to access permission for an outing thus, our website aims to solve this problem by providing a user-friendly platform of obtaining outpass permission via qrcode for travel / outings. The application allows us to fill in the details online while requesting for an outpass. It is then passed on to the warden for approval. With the approval of the outpass by the warden , a qrcode gets generated which is supposed to get scanned at the main gate and the student is good to go. This application is useful for both the end users - student and warden to interact on one platform.    
 <br>
 <a href="https://sachidananda-17.github.io/Easy-Exit/">Go Live</a>
 <img width="1161" alt="Screenshot 2023-02-25 at 5 24 48 AM" src="https://user-images.githubusercontent.com/96241425/221322866-04905bad-6a04-4d80-af63-0f91eb8c1a28.png">
