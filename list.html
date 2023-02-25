@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="list.css">
+</head>
+<body>
+	<header>
+		<h2>Outpass Approval</h2>
+	</header>
+	<table border="2px" text-align="center" width="100%">
+		<tr>
+			<th>Name</th>
+			<th>Registration Number</th>
+			<th>Mobile</th>
+			<th>Parents Mobile</th>
+			<th>Date of Leaving</th>
+			<th>Time</th>
+			<th>Reason for Leaving</th>
+			<th>Approval</th>
+		</tr>
+		<tr>
+			<td>John Doe</td>
+			<td>AP22110010110</td>
+			<td>9876543210</td>
+            <td>9126473820</td>
+			<td>2023-03-01</td>
+            <td>16:35</td>
+			<td>Visiting home for a family emergency</td>
+			<td>
+				<form>
+					<label><input type="radio" name="approval" value="yes">Yes</label>
+					<label><input type="radio" name="approval" value="no">No</label>
+					<input type="submit" value="Submit">
+				</form>
+			</td>
+		</tr>
+        <tr>
+			<td>Hinsari</td>
+			<td>AP22110010120</td>
+			<td>98765433470</td>
+            <td>91264734840</td>
+			<td>2023-04-21</td>
+            <td>14:15</td>
+			<td>Going out with friends</td>
+			<td>
+				<form>
+					<label><input type="radio" name="approval" value="yes"><strong>Yes</strong></label>
+					<label><input type="radio" name="approval" value="no">No</label>
+					<input type="submit" value="Submit">
+				</form>
+			</td>
+		</tr>
+		<!-- Add more rows for additional requests -->
+	</table>
+</body>
+</html>
