@@ -6,3 +6,4 @@ Easy Exit is the web application developed using  HTML and CSS where it gives th
 <img width="1160" alt="Screenshot 2023-02-25 at 5 26 00 AM" src="https://user-images.githubusercontent.com/96241425/221322873-dbdcff55-e8ef-48f2-9b8d-cd9203228685.png">
 <img width="1161" alt="Screenshot 2023-02-25 at 5 26 21 AM" src="https://user-images.githubusercontent.com/96241425/221322880-5f0d397f-1429-40e2-aeb9-218f2a446352.png">
 <img width="1229" alt="Screenshot 2023-02-25 at 5 28 30 AM" src="https://user-images.githubusercontent.com/96241425/221322990-5c736124-402e-41ce-9b7a-710272a1ddb0.png">
+<img width="1232" alt="Screenshot 2023-02-25 at 5 42 01 AM" src="https://user-images.githubusercontent.com/96241425/221323988-a2dc7073-6845-45d4-aa03-80f9ed9aa0e3.png">
